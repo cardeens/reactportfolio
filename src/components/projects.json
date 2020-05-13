@@ -1,0 +1,26 @@
+[
+    {
+        "name": "FINDR Application",
+        "image": "images/Findr.png",
+        "deployed": "https://commiewalker.github.io/Findr/",
+        "github": "https://github.com/commiewalker/Findr"
+    },
+    {
+        "name": "Pennlights Website",
+        "image": "images/lights.png",
+        "deployed": "x",
+        "github": "x"
+    },
+    {
+        "name": "Quiz Panda",
+        "image": "images/panda.svg",
+        "deployed": "https://quizpanda.herokuapp.com/",
+        "github": "https://github.com/sali6798/quiz-panda"
+    },
+    {
+        "name": "Weather Dashboard",
+        "image": "images/weathericon.png",
+        "deployed": "https://cardeens.github.io/weatherapihw6/",
+        "github": "https://github.com/cardeens/weatherapihw6"
+    }
+]
