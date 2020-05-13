@@ -8,29 +8,6 @@ function Navbar() {
     const location = useLocation();
 
     return (
-        // <ul className="nav nav-tabs">
-        //     <li className="nav-item">
-        //         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-        //             JJ Cardenas
-        //   </Link>
-        //     </li>
-        //     <li className="nav-item">
-        //         <Link
-        //             to="/portfolio"
-        //             className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
-        //         >
-        //             Portfolio
-        //   </Link>
-        //     </li>
-        //     <li className="nav-item">
-        //         <Link
-        //             to="/contact"
-        //             className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
-        //         >
-        //             Contact Me
-        //   </Link>
-        //     </li>
-        // </ul>
 
         <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
             <Link to="/" className={location.pathname === "/" ? "nav-link active navbar-brand" : "nav-link navbar-brand"}>

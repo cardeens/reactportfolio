@@ -7,6 +7,13 @@ h1 {
   font-weight: 30px;
 }
 
+footer {
+  color: #faf6f2;
+  text-align: center;
+  padding: 10px;
+  font-size: 10px;
+}
+
 .navbar-toggler {
   background-color: #b08401;
   color: #faf6f2;

@@ -15,7 +15,7 @@ class Portfolio extends Component {
             <div className="row">
                 {this.state.projects.map(project => (
                     <Project
-                        name={project.id}
+                        name={project.name}
                         image={project.image}
                         deployed={project.deployed}
                         github={project.github}
