@@ -40,7 +40,7 @@ app.post('/send', (req, res) => {
   var mailOptions = {
     from: process.env.EMAIL,
     to: 'jjcardenas16@hotmail.com',
-    subject: `PORTFOLIO MESSAGE - ${req.body.name}`,
+    subject: `NEW PORTFOLIO MESSAGE - ${req.body.name}`,
     text: `
             Name: ${req.body.name}
 
