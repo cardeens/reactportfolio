@@ -1,0 +1,44 @@
+[
+    {
+        "name": "FINDR Application",
+        "image": "images/Findr.png",
+        "deployed": "https://commiewalker.github.io/Findr/",
+        "github": "https://github.com/commiewalker/Findr"
+    },
+    {
+        "name": "MGR",
+        "image": "images/MGR.png",
+        "deployed": "https://mgr-talent.herokuapp.com/",
+        "github": "https://github.com/sali6798/mgr-react"
+    },
+    {
+        "name": "Quiz Panda",
+        "image": "images/panda.svg",
+        "deployed": "https://quizpanda.herokuapp.com/",
+        "github": "https://github.com/sali6798/quiz-panda"
+    },
+    {
+        "name": "Google Books: Search & Save",
+        "image": "images/googleBooks.svg",
+        "deployed": "x",
+        "github": "https://github.com/cardeens/googlebooks"
+    },
+    {
+        "name": "Weather Dashboard",
+        "image": "images/weather.svg",
+        "deployed": "https://cardeens.github.io/weatherapihw6/",
+        "github": "https://github.com/cardeens/weatherapihw6"
+    },
+    {
+        "name": "Note Taker",
+        "image": "images/notes.svg",
+        "deployed": "https://jjnotetaker.herokuapp.com/",
+        "github": "https://github.com/cardeens/notetakerhw11"
+    },
+    {
+        "name": "Dynamic Day Planner",
+        "image": "images/calendar.svg",
+        "deployed": "https://cardeens.github.io/dayplannerhw5/",
+        "github": "https://github.com/cardeens/dayplannerhw5/"
+    }
+]
