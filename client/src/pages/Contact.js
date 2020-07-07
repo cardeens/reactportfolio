@@ -37,6 +37,12 @@ function handleMessage(event) {
     }
 
     axios.post('/send', emailData)
+
+    setName("")
+    setEmail("")
+    setMessage("")
+
+    alert("Thanks for your message! I will respond as soon as possible.")
     
   }
 
