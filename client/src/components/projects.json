@@ -1,15 +1,27 @@
 [
     {
+        "name": "Quiz Panda",
+        "image": "images/panda.svg",
+        "deployed": "https://quizpanda.herokuapp.com/",
+        "github": "https://github.com/sali6798/quiz-panda"
+    },
+    {
         "name": "MGR",
         "image": "images/MGR.png",
         "deployed": "https://mgr-talent.herokuapp.com/",
         "github": "https://github.com/sali6798/mgr-react"
     },
     {
-        "name": "Quiz Panda",
-        "image": "images/panda.svg",
-        "deployed": "https://quizpanda.herokuapp.com/",
-        "github": "https://github.com/sali6798/quiz-panda"
+        "name": "Google Books: Search & Save",
+        "image": "images/googleBooks.svg",
+        "deployed": "https://jj-googlebooksfinal.herokuapp.com/",
+        "github": "https://github.com/cardeens/googlebooks"
+    },
+    {
+        "name": "FINDR App",
+        "image": "images/Findr.png",
+        "deployed": "https://cardeens.github.io/FindrApp/index.html",
+        "github": "https://github.com/commiewalker/Findr"
     },
     {
         "name": "Weather Dashboard",
