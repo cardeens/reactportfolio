@@ -6,16 +6,16 @@
         "github": "https://github.com/sali6798/quiz-panda"
     },
     {
-        "name": "MGR",
-        "image": "images/MGR.png",
-        "deployed": "https://mgr-talent.herokuapp.com/",
-        "github": "https://github.com/sali6798/mgr-react"
-    },
-    {
         "name": "Google Books: Search & Save",
         "image": "images/googleBooks.svg",
         "deployed": "https://jj-googlebooksfinal.herokuapp.com/",
         "github": "https://github.com/cardeens/googlebooks"
+    },
+    {
+        "name": "MGR",
+        "image": "images/MGR.png",
+        "deployed": "https://mgr-talent.herokuapp.com/",
+        "github": "https://github.com/sali6798/mgr-react"
     },
     {
         "name": "FINDR App",
