@@ -11,7 +11,7 @@ function Navbar() {
 
         <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
             <Link to="/" className={location.pathname === "/" ? "nav-link active navbar-brand" : "nav-link navbar-brand"}>
-                    JJ Cardenas
+                JJ Cardenas
           </Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,24 +20,32 @@ function Navbar() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav navbar-right">
                     <li className="nav-item">
-                    <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-                    About Me
+                        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+                            About Me
           </Link>
                     </li>
                     <li className="nav-item">
-                    <Link
-                    to="/portfolio"
-                    className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
-                >
-                    Portfolio
+                        <Link
+                            to="/portfolio"
+                            className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+                        >
+                            Portfolio
           </Link>
                     </li>
                     <li className="nav-item">
-                    <Link
-                    to="/contact"
-                    className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
-                >
-                    Contact Me
+                        <Link
+                            to="/resume"
+                            className={location.pathname === "/resume" ? "nav-link active" : "nav-link"}
+                        >
+                            Resume
+          </Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link
+                            to="/contact"
+                            className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+                        >
+                            Contact Me
           </Link>
                     </li>
                 </ul>
