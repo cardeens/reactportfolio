@@ -30,6 +30,12 @@
         "github": "https://github.com/cardeens/weatherapihw6"
     },
     {
+        "name": "ReactJS Portfolio",
+        "image": "images/portfolio.svg",
+        "deployed": "http://www.jjcardenas.com",
+        "github": "https://github.com/cardeens/reactportfolio"
+    },
+    {
         "name": "Note Taker",
         "image": "images/notes.svg",
         "deployed": "https://jjnotetaker.herokuapp.com/",
