@@ -21,7 +21,7 @@
         "name": "FINDR App",
         "image": "images/Findr.png",
         "deployed": "https://cardeens.github.io/FindrApp/index.html",
-        "github": "https://github.com/commiewalker/Findr"
+        "github": "https://github.com/cardeens/FindrApp"
     },
     {
         "name": "Weather Dashboard",
