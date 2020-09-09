@@ -6,9 +6,9 @@ function About() {
       <h1>About Me</h1>
       <hr></hr>
       <div className="row">
-        <div className="col-md-4">
+        <div className="aboutHS col-md-4">
           <div className="jjimage">
-            <img className="img img-thumbnail" src="images/headshot.jpg" alt="JJ Headshot" />
+            <img className="img img-thumbnail" src="images/headshot2.png" alt="JJ Headshot" />
           </div>
         </div>
         <div className="col-md-8">

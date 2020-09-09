@@ -19,7 +19,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path={["/"]} component={About} />
-          <Route path="/resume" render={ () => <PDFViewer backend={PDFJSBackend} src='/JJCardenasResume(July).pdf'/> } />
+          <Route path="/resume" render={ () => <PDFViewer backend={PDFJSBackend} src='/JJCardenasResume(9_8).pdf'/> } />
         </Switch>
         <Footer />
       </div>
